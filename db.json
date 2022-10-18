@@ -1,0 +1,29 @@
+{
+    "main":[
+        {
+            "img":"img/tabs/1.png",
+            "alting":"usual",
+            "title":"Plan 'Usual'",
+            "decrp":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditatebeatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+            "price":10
+        },
+        {
+            "img":"img/tabs/2.png",
+            "alting":"plan",
+            "title":"Premium",
+            "decrp":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditatebeatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+            "price":20
+        },
+        {
+            "img":"img/tabs/3.png",
+            "alting":"vip",
+            "title":"Plan VIP",
+            "decrp":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditatebeatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+            "price":30
+        }
+    ],
+    "request":[]
+    
+
+    
+}
